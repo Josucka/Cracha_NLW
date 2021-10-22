@@ -1,8 +1,8 @@
 //Pra que e o cracha fique com seus dados basta trocar os usuario do linksSocialMedia
 const linksSocialMedia = {
   github: "josucka",
-  youtube: "josuck",
-  facebook: "josuck",
+  youtube: "#",
+  facebook: "jpaula27",
   twitter: "josuck27",
   instagram: "josuck"
 }
